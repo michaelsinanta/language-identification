@@ -10,15 +10,15 @@ out_dir = script_dir
 
 # Languages to include and their mapping to folder/column names
 languages = [
-    ("english", "English"),
-    ("indonesian", "Indonesian"),
-    ("javanese", "Javanese"),
-    ("sundanese", "Sundanese"),
-    ("balinese", "Balinese"),
-    ("toba_batak", "Batak Toba"),
-    ("madurese", "Madurese"),
-    ("acehnese", "Acehnese"),
-    ("buginese", "Buginese"),
+    ("english", "en"),
+    ("indonesian", "ind"),
+    ("javanese", "jav"),
+    ("sundanese", "sun"),
+    ("balinese", "ban"),
+    ("toba_batak", "bbc"),
+    ("madurese", "mad"),
+    ("acehnese", "ace"),
+    ("buginese", "bug"),
 ]
 
 mt_col_map = {
