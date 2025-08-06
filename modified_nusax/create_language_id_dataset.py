@@ -10,7 +10,7 @@ out_dir = script_dir
 
 # Languages to include and their mapping to folder/column names
 languages = [
-    ("english", "en"),
+    ("english", "eng"),
     ("indonesian", "ind"),
     ("javanese", "jav"),
     ("sundanese", "sun"),
