@@ -1,0 +1,7 @@
+nusa_alinea-author      = bew, btk, jav, mad, mak, min, sun
+nusa_alinea-emot        = bew, btk, bug, jav, mad, mak, min, mui, rej, sun
+nusa_alinea-paragraph   = bew, btk, bug, jav, mad, mak, min, mui, rej, sun 
+nusa_alinea-topic       = bew, btk, bug, jav, mad, mak, min, mui, rej, sun 
+nusa_kalimat-emot       = abs, bew, bhp, btk, jav, mad, mak, min, mui, rej, sun
+nusa_kalimat-mt         = abs, bew, bhp, btk, jav, mad, mak, min, mui, rej, sun
+nusa_kalimat-senti      = abs, bew, bhp, btk, jav, mad, mak, min, mui, rej, sun
